@@ -60,7 +60,7 @@ def jogando(dificuldade):
         st.write('')
         st.write(f'Tentativas restantes: {st.session_state.tentativas}')
         st.write(f' Seu Nível atual é: {st.session_state.dificuldade}')
-        st.write(f' Número secreto: {st.session_state.numero_secreto}')
+        #st.write(f' Número secreto: {st.session_state.numero_secreto}')
         #st.write(f' Número máximo: {st.session_state.numero_maximo}')
      
         
